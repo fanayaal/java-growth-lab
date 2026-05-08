@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+build/
+
+# Java compiled files
+*.class
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
